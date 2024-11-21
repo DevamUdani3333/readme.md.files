@@ -27,7 +27,7 @@ sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 ```bash
 sudo systemctl enable docker 
 ```
-## Verify that the Docker Engine installation is successful by running the hello-world image.
+## Verify Docker Engine installation by running the hello-world image.
 
 ```bash
 sudo docker run hello-world
